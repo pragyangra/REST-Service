@@ -3,6 +3,8 @@
 This project implements a REST service for a DNS server using the Django Rest
 Framework. I will provide a detailed explanation of how the code works along with the results shown on the website.
 
+To run it, clone the repository to your local computer. Open command line and go to the directory with manage.py file. Run the command, python manage.py runserver. You'll be provided with a link to the server, follow the link and continue the steps below.
+
 The URL http://127.0.0.1:8000/api takes us to our django application with the home page as shown below
 
 ![Screenshot 2022-10-09 013741](https://user-images.githubusercontent.com/61738363/194726863-1d5253be-5a08-4fcb-a0a3-a30e5420022f.jpg)
