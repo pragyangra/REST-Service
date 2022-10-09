@@ -11,7 +11,7 @@ The URL http://127.0.0.1:8000/api takes us to our django application with the ho
 
 # Updating the record
 Follow the url pattern http://127.0.0.1:8000/baseCreate to update the DNS record,
-which takes domain and IP address as a request body and saves it in a database. The saveD domain names and IP addresses are as shown below.
+which takes domain and IP address as a request body and saves it in a database. The saved domain names and IP addresses are as shown below.
 
 ![Screenshot 2022-10-09 014625](https://user-images.githubusercontent.com/61738363/194726999-ccc88f3f-6802-4d0b-a726-053308f652b6.jpg)
 ![Screenshot 2022-10-09 014826](https://user-images.githubusercontent.com/61738363/194727002-7367e2ff-30a5-4214-b6a2-788c8c13748c.jpg)
